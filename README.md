@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aloysius.
-- 👀 I’m interested in Networking and cloud technologies.
-- 🌱 I’m currently learning the concepts and tools surrounding networking.
+- 👀 I’m interested in Data Science and Machine Learning.
+- 🌱 I’m currently learning the concepts and tools surrounding DS and ML.
 - 💞️ I’m looking to collaborate in the future.
 - 📫 You can contact me via LinkedIn --> www.linkedin.com/in/aloysius-vidhun-mon
 
