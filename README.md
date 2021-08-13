@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aloysius.
-- 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning the concepts and tools surrounding DS and ML.
-- 💞️ I’m looking to collaborate in the future.
+- 👀 Interested in Data Science and Machine Learning.
+- 🌱 Currently learning the concepts and tools surrounding DS and ML. Looking to collaborate in the future.
 - 📫 You can contact me via LinkedIn --> www.linkedin.com/in/aloysius-vidhun-mon
 
 <!---
