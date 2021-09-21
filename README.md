@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aloysius.
-- 👀 Interested in Data Engineering.
+- 👀 Interested in Data Science and Machine Learning.
 - 📫 You can contact me via LinkedIn --> www.linkedin.com/in/aloysius-vidhun-mon
 
 <!---
