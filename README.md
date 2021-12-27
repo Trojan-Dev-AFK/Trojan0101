@@ -1,6 +1,6 @@
 - :wave: Hi, I’m Aloysius from the southern part of India.
 - :books: Learning Web-Development through [**TheOdinProject**](https://www.theodinproject.com/) alongside [**Java**](https://www.udemy.com/course/java-the-complete-java-developer-course/).
-- :briefcase: Looking forward to land a job as WebDeveloper by the end of 2022.
+- :briefcase: Looking forward to land a job as Software Developer by the end of 2022.
 - :mailbox: Let's catch up --> [**LinkedIn**](https://www.linkedin.com/in/aloysius-vidhun-mon) | [**Twitter**](https://twitter.com/aloysius_05).
 
 <!---
