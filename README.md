@@ -8,13 +8,13 @@
 
 ### Tools and Technologies I have used and comfortable with:
 
-1. Programming Languages: Java, Python
-2. Big-Data technologies: Apache Kafka, Apache Hadoop
-3. Relational DBMS: Oracle 11g and 12c, Postgres 9.6 and 13
-4. Non-relational DBMS: MongoDB, Cassandra
-5. Operating systems: Windows, Linux (Ubuntu, Centos)
-6. Version Control: Git
-7. Work management: Atlassian Jira
+- Programming Languages: Java, Python
+- Big-Data technologies: Apache Kafka, Apache Hadoop
+- Relational DBMS: Oracle 11g and 12c, Postgres 9.6 and 13
+- Non-relational DBMS: MongoDB, Cassandra
+- Operating systems: Windows, Linux (Ubuntu, Centos)
+- Version Control: Git
+- Work management: Atlassian Jira
 
 
 <!---
