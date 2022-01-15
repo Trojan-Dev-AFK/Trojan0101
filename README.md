@@ -6,7 +6,7 @@
 - :mailbox: Let's catch up --> [**LinkedIn**](https://www.linkedin.com/in/aloysius-vidhun-mon) | [**Twitter**](https://twitter.com/aloysius_05).
 
 
-### Tools and Technologies I have used and comfortable with:
+### Tools and Technologies:
 
 - Programming Languages: Java, Python
 - Big-Data technologies: Apache Kafka, Apache Hadoop
