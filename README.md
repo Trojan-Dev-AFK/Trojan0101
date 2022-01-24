@@ -16,7 +16,7 @@
 - Version Control: Git
 - Work management: Atlassian Jira
 
-[![Aloysius's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trojan0101)](https://github.com/Trojan0101)
+[![Aloysius's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trojan0101&hide=contribs,prs)](https://github.com/Trojan0101)
 
 <!---
 Trojan0101/Trojan0101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
