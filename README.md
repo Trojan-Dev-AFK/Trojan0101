@@ -8,7 +8,7 @@
 
 ### Tools and Technologies:
 
-- Programming Languages: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white), Python
+- Programming Languages: Java, Python
 - Big-Data technologies: Apache Kafka, Apache Hadoop
 - Relational DBMS: Oracle 11g and 12c, Postgres 9.6 and 13
 - Non-relational DBMS: MongoDB, Cassandra
