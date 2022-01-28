@@ -10,12 +10,10 @@
 
 - Programming Languages: Core Java, C#, Python
 - Web-Dev technologies: ASP.NET Core MVC (.NET 5)
-- Big-Data technologies: Apache Kafka, Apache Hadoop
 - Relational DBMS: Oracle 11g and 12c, Postgres 9.6 and 13
 - Non-relational DBMS: MongoDB
 - Operating systems: Windows, Linux (Ubuntu, Centos)
 - Version Control: Git
-- Work management: Atlassian Jira
 
 [![Aloysius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan0101&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/Trojan0101)
 
