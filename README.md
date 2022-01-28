@@ -8,10 +8,11 @@
 
 ### Tools and Technologies:
 
-- Programming Languages: Java, Python
+- Programming Languages: Core Java, C#, Python
+- Web-Dev technologies: ASP.NET Core (.NET 5)
 - Big-Data technologies: Apache Kafka, Apache Hadoop
 - Relational DBMS: Oracle 11g and 12c, Postgres 9.6 and 13
-- Non-relational DBMS: MongoDB, Cassandra
+- Non-relational DBMS: MongoDB
 - Operating systems: Windows, Linux (Ubuntu, Centos)
 - Version Control: Git
 - Work management: Atlassian Jira
