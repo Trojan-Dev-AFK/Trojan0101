@@ -8,8 +8,7 @@
 
 ### Tools and Technologies:
 
-- Programming Languages: Core Java, C#, Python
-- Web-Dev technologies: ASP.NET Core MVC (.NET 5)
+- Programming Languages: Java, Python
 - Relational DBMS: Oracle 11g and 12c, Postgres 9.6 and 13
 - Non-relational DBMS: MongoDB
 - Operating systems: Windows, Linux (Ubuntu, Centos)
