@@ -1,7 +1,7 @@
 ### General Information:
 
 - :wave: Hi, I’m Aloysius from the southern part of India.
-- :books: Learning Software Engineering alongside [**Java**](https://www.oracle.com/in/java/).
+- :books: Learning Software Engineering alongside.
 - :briefcase: Looking forward to land a job as Software Engineer by the end of 2022.
 - :mailbox: Let's catch up --> [**LinkedIn**](https://www.linkedin.com/in/aloysius-vidhun-mon) | [**Twitter**](https://twitter.com/aloysius_05).
 
