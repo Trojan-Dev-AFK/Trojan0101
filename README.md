@@ -2,14 +2,13 @@
 
 - :wave: Hi, I’m Aloysius from the southern part of India.
 - :books: Learning Software Engineering.
-- :briefcase: Looking forward to land a job as Software Engineer by the end of 2022.
+- :briefcase: Looking forward to land a job as Backend Engineer by the end of 2022.
 - :mailbox: Let's catch up --> [**LinkedIn**](https://www.linkedin.com/in/aloysius-vidhun-mon) | [**Twitter**](https://twitter.com/aloysius_05).
 
 
 ### Tools and Technologies:
 
-- Programming Languages: Python, C#, Core Java
-- Web Technologies: ASP.NET Core (.NET 5), Entity-Framework (ORM), HTML, CSS, JS
+- Programming Languages: Java, Python
 - Relational DBMS: Oracle 11g and 12c, Postgres 9.6 and 13
 - Non-relational DBMS: MongoDB
 - Operating systems: Windows, Linux (Ubuntu, Centos)
