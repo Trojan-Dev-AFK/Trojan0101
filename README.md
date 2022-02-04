@@ -8,7 +8,7 @@
 
 ### Tools and Technologies:
 
-- Programming Languages: C#, Java, Python
+- Programming Languages: Python, Java
 - Relational DBMS: Oracle 11g, Postgres 9.6 and 13
 - Non-relational DBMS: MongoDB
 - Operating systems: Windows, Linux (Ubuntu, Centos)
