@@ -10,7 +10,7 @@
 
 - Programming Languages: Python, C#, Java
 - Web Technologies: ASP.NET Core MVC (.NET 5), Entity Framework, HTML, CSS, JS
-- Relational DBMS: Oracle 11g, Postgres 9.6 and 13
+- Relational DBMS: Oracle 11g, Postgres 9.6 and 13, SQL Server
 - Non-relational DBMS: MongoDB
 - Operating systems: Windows, Linux (Ubuntu, Centos)
 - Version Control: Git
