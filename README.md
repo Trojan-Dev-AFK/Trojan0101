@@ -14,7 +14,7 @@
 - Big-data Technologies: Apache Hadoop, Spark, Kafka, ETL
 - Operating systems: Windows, Linux (Ubuntu, Centos)
 - Cloud Technologies: Google Cloud Platform
-- Version Control: Git
+- Version Control: Git, GitHub
 
 [![Aloysius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan0101&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/Trojan0101)
 
