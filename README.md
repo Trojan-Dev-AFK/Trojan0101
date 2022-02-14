@@ -11,6 +11,7 @@
 - Programming Languages: Python, Java
 - Relational DBMS: Oracle 11g, Postgres 9.6 and 13, EnterpriseDB 9.6
 - Non-relational DBMS: MongoDB, Cassandra
+- Big-data Technologies: Apache Hadoop, Spark, Kafka, ETL
 - Operating systems: Windows, Linux (Ubuntu, Centos)
 - Cloud Technologies: Google Cloud Platform
 - Version Control: Git
