@@ -1,17 +1,17 @@
 ### General Information:
 
 - :wave: Hi, I’m Aloysius from the southern part of India.
-- :books: Learning Data Engineering.
+- :books: Learning Software Engineering.
 - :briefcase: Looking forward to land a job as Data Engineer by the end of 2022.
 - :mailbox: Let's catch up --> [**LinkedIn**](https://www.linkedin.com/in/aloysius-vidhun-mon) | [**Twitter**](https://twitter.com/aloysius_05).
 
 
 ### Tools and Technologies:
 
-- Programming Languages: Python, Java
+- Programming Languages: Java, Python
+- Web Technologies: Spring Boot, Hibernate, JPA
 - Relational DBMS: Oracle 11g, Postgres 9.6 and 13, EnterpriseDB 9.6
-- Non-relational DBMS: MongoDB, Cassandra
-- Big-data Technologies: Apache Hadoop, Spark, Kafka, ETL
+- Non-relational DBMS: MongoDB
 - Operating systems: Windows, Linux (Ubuntu, Centos)
 - Cloud Technologies: Google Cloud Platform
 - Version Control: Git, GitHub
