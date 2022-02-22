@@ -8,8 +8,8 @@
 
 ### Tools and Technologies:
 
-- Programming Languages: Java, Python
-- Web Technologies: Spring Boot, Hibernate, JPA
+- Programming Languages: C#, Python
+- Web Technologies: ASP.NET MVC (.NET 5, 6), Entity Framework, ReactJS
 - Relational DBMS: Oracle 11g, Postgres 9.6 and 13, EnterpriseDB 9.6
 - Non-relational DBMS: MongoDB
 - Operating systems: Windows, Linux (Ubuntu, Centos)
