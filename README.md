@@ -8,12 +8,11 @@
 
 ### Tools and Technologies:
 
-- Programming Languages: C#, Python, Java
-- Web Technologies: ASP.NET Core MVC (.NET Core 5, 6), Entity Framework, HTML, CSS, ReactJS
+- Programming Languages: Python, Java
 - Relational DBMS: Oracle 11g, Postgres 9.6 and 13, EnterpriseDB 9.6
 - Non-relational DBMS: MongoDB
 - Operating systems: Windows, Linux (Ubuntu, Centos)
-- Cloud Technologies: Azure Cloud Platform
+- Cloud Technologies: Google Cloud Platform
 - Version Control: Git, GitHub
 
 [![Aloysius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan0101&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/Trojan0101)
