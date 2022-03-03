@@ -7,7 +7,7 @@
 
 ### Tools and Technologies:
 
-- Programming Languages: Python, Java
+- Programming Languages: Java, Python
 - Frameworks: Spring Boot, Hibernate (ORM)
 - Relational DBMS: Oracle 11g, Postgres 9.6 and 13, EnterpriseDB 9.6, SQL Server
 - Non-relational DBMS: MongoDB
