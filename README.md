@@ -12,7 +12,7 @@
 - Relational DBMS: Oracle 11g, Postgres 9.6 and 13, EnterpriseDB 9.6, SQL Server
 - Non-relational DBMS: MongoDB
 - Operating systems: Windows, Linux (Ubuntu, Centos)
-- Cloud Technologies: Google Cloud Platform
+- Cloud Technologies: AWS
 - Version Control: Git, GitHub
 
 [![Aloysius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan0101&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/Trojan0101)
