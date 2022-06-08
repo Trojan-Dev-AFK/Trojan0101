@@ -7,13 +7,15 @@
 
 ### Tools and Technologies:
 
-- Programming Languages: Java, Python
-- Frameworks: Spring Boot, Hibernate (ORM), Spring Security
+- Programming Languages: Java, C#, Python
+- Frameworks: Spring Boot [ Hibernate (ORM), Spring Security ], .NET
 - Relational DBMS: Oracle 11g, Postgres 9.6 and 13, EnterpriseDB 9.6, SQL Server
 - Non-relational DBMS: MongoDB
 - Operating systems: Windows, Linux (Ubuntu, Centos)
 - Cloud Technologies: AWS
 - Version Control: Git, GitHub
+- IDE's: IntelliJ Idea, Eclipse, Visual Studio, VS Code 
+- Other Tools: Putty, FileZilla
 
 [![Aloysius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan0101&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/Trojan0101)
 
