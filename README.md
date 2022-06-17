@@ -14,8 +14,9 @@
 - Operating systems: Windows, Linux (Ubuntu, Centos)
 - Cloud Technologies: AWS
 - Version Control: Git, GitHub
+- CI/CD: GitHub Actions
 - IDE's: IntelliJ Idea, Eclipse, Visual Studio, VS Code 
-- Other Tools: Putty, FileZilla
+- Other Tools: Docker, Putty, FileZilla
 
 [![Aloysius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan0101&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/Trojan0101)
 
