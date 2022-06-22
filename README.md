@@ -7,8 +7,8 @@
 
 ### Tools and Technologies:
 
-- Programming Languages: Java, C#, Python
-- Frameworks: Spring Boot [ Hibernate (ORM), Spring Security ], .NET
+- Programming Languages: Java, C#, Python, Javascript
+- Frameworks: Spring Boot [ Hibernate (ORM), Spring Security ], .NET, Express (NodeJS)
 - Relational DBMS: Oracle 11g, Postgres 9.6 and 13, EnterpriseDB 9.6, SQL Server
 - Non-relational DBMS: MongoDB
 - Operating systems: Windows, Linux (Ubuntu, Centos)
