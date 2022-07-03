@@ -2,7 +2,7 @@
 
 - :wave: Hi, I’m Aloysius from the southern part of India.
 - :briefcase: Software Engineer.
-- :mailbox: Let's catch up --> [**LinkedIn**](https://www.linkedin.com/in/aloysius-vidhun-mon) | [**Twitter**](https://twitter.com/aloysius_05).
+- :mailbox: Let's catch up --> [**LinkedIn**](https://www.linkedin.com/in/aloysius-vidhun-mon).
 
 
 ### Tools and Technologies:
