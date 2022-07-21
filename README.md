@@ -16,7 +16,7 @@
 - Version Control: Git, GitHub
 - CI/CD: GitHub Actions
 - IDE's: IntelliJ Idea, Eclipse, VS Code 
-- Other Tools: Docker, Putty, FileZilla
+- Other Tools: Docker, Putty, FileZilla, WinSCP
 
 [![Aloysius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan0101&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/Trojan0101)
 
