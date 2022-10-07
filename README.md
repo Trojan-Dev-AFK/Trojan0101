@@ -7,15 +7,15 @@
 
 ### Tools and Technologies:
 
-- Programming Languages: Java, Javascript, Python
-- Frameworks: Spring Boot, NodeJS, Express
-- Relational DBMS: Oracle 11g, Postgres 9.6 and 13, EnterpriseDB 9.6, SQL Server
+- Programming Languages: Java, Python, Javascript
+- Frameworks: Spring Boot
+- Relational DBMS: Oracle, Postgres, EnterpriseDB, SQL Server
 - Non-relational DBMS: MongoDB
 - Operating systems: Windows, Linux (Ubuntu, Centos)
 - Cloud Technologies: AWS
 - Version Control: Git, GitHub
 - CI/CD: GitHub Actions
-- IDE's: IntelliJ Idea, Eclipse, VS Code 
+- IDE's: IntelliJ Idea, Eclipse, PyCharm, VS Code 
 - Other Tools: Docker, Putty, FileZilla, WinSCP
 
 [![Aloysius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan0101&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/Trojan0101)
