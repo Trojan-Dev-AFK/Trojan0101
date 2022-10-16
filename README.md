@@ -7,7 +7,7 @@
 
 ### Tools and Technologies:
 
-- Programming Languages: Java, Python, Javascript
+- Languages: Java, Python, JavaScript, TypeScript
 - Frameworks: Spring Boot, Angular
 - Relational DBMS: Oracle, Postgres, EnterpriseDB, SQL Server
 - Non-relational DBMS: MongoDB
