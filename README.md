@@ -8,13 +8,13 @@
 ### Tools and Technologies:
 
 - Languages: Java, Python, JavaScript, TypeScript
-- Frameworks: Spring Boot, Angular, Django, Flask
+- Frameworks: Spring Boot, Angular
 - Relational DBMS: Oracle, Postgres, EnterpriseDB, SQL Server
 - Non-relational DBMS: MongoDB
 - Operating systems: Windows, Linux (Ubuntu, Centos)
 - Cloud Technologies: AWS
 - Version Control: Git, GitHub
-- CI/CD: GitHub Actions
+- CI/CD: Jenkins, GitHub Actions
 - IDE's: IntelliJ Idea, PyCharm, VS Code 
 - Other Tools: Postman, Docker, Jenkins, Jira, Putty, FileZilla, WinSCP
 
