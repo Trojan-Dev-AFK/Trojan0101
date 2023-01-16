@@ -8,7 +8,7 @@
 ### Tools and Technologies:
 
 - Languages: Java, Python, JavaScript
-- Frameworks: Spring Boot
+- Frameworks: Spring Boot, PyQT
 - Relational DBMS: Oracle, Postgres, EnterpriseDB, SQL Server
 - Non-relational DBMS: MongoDB
 - Operating systems: Windows, Linux (Ubuntu, Centos)
@@ -17,8 +17,6 @@
 - CI/CD: Jenkins, GitHub Actions
 - IDE's: IntelliJ Idea, PyCharm, VS Code 
 - Other Tools: Postman, Docker, Jenkins, Jira, Putty, FileZilla, WinSCP
-
-[![Aloysius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan0101&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/Trojan0101)
 
 <!---
 Trojan0101/Trojan0101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
