@@ -7,8 +7,8 @@
 
 ### Tools and Technologies:
 
-- Languages: Java, Python, JavaScript
-- Frameworks: Spring Boot, PyQT
+- Languages: Python, Java, JavaScript
+- Frameworks: Django, Pytest, Spring Boot
 - Relational DBMS: Oracle, Postgres, EnterpriseDB, SQL Server
 - Non-relational DBMS: MongoDB
 - Operating systems: Windows, Linux (Ubuntu, Centos)
