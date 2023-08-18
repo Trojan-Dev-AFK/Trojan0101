@@ -2,7 +2,7 @@
 
 - :wave: Hi, I’m Aloysius from the southern part of India.
 - :briefcase: Software Engineer.
-- :mailbox: Let's catch up --> [**LinkedIn**](https://www.linkedin.com/in/aloysius-vidhun-mon).
+- :mailbox: Let's catch up --> [**LinkedIn**](https://www.linkedin.com/in/aloysius-vidhun-mon)
 - :black_nib: Check out my blog --> [**Hashnode**](https://aloysius05.hashnode.dev/)
 
 
